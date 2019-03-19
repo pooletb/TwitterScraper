@@ -2,7 +2,6 @@ use Data::Dumper;
 use Text::SimpleTable::AutoWidth;
 #Tyler Poole
 #2/19/19
-#INTRO TO NATURAL LANG PROCESS CMSC 416
 
 #This is a program to designed to generate sentences based off any give n-gram model.  It takes
 #three (or more) inputs to run:  an n values that is used to tokenize the given text files,
